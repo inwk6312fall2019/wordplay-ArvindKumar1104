@@ -1,3 +1,4 @@
+
 import string
 def make_wordlist(file):
     result = []
